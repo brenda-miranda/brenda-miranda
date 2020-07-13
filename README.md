@@ -26,11 +26,11 @@
   </a>
   
   <a href="https://www.instagram.com/bmndxx/">
-    <img src="https://img.shields.io/badge/Instagram-%40bmndx-ff69b4?style=for-the-badge&logo=appveyor">
+    <img src="https://img.shields.io/badge/Instagram-%40bmndxx-ff69b2?style=for-the-badge&logo=appveyor">
   </a>
   
    <a href="https://twitter.com/bmndxx">
-    <img src="https://img.shields.io/badge/Twitter-%40bmndx-blueviolet?style=for-the-badge&logo=appveyor">
+    <img src="https://img.shields.io/badge/Twitter-%40bmndxx-blue?style=for-the-badge&logo=appveyor">
   </a>
   </a>
 </p>
