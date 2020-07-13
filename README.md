@@ -19,7 +19,9 @@ Hi there, I'm Brenda Miranda! 🤩
 <hr>
 
 <h1 align="center">
-✨ Where you can find me:<br>
+✨ Where you can find me:
+  
+<hr>
   
   <p align="center">
    <a href="https://www.linkedin.com/in/bmndx/">
@@ -37,5 +39,5 @@ Hi there, I'm Brenda Miranda! 🤩
 </p>
 </h1>
 
-<p align="center"> Now 👇🏽 enjoy my repos made with ❤ by me! </p>
+<h3 align="center"><strong> Now 👇🏽 enjoy my repos made with ❤ by me! </strong> </h3>
 
