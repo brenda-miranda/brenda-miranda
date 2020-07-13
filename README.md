@@ -1,16 +1,41 @@
-### Hi there 👋
+<h1 align="center">
+Hi there, I'm Brenda Miranda! 🤩
+</h1>
+<h3 align="center">🚀 Front-end Developer | (FullStack in progress) </h3>
+<hr>
 
-<!--
-**bmndx/bmndx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📚 My stack:
+- JavaScript ❤ (I'm fooling around with TypeScript sometimes lol 😂)
+- ReactJS & Styled-Components
+- NodeJS
+- HTML & CSS
 
-Here are some ideas to get you started:
+### 👀 About me:
+- I'm 22yo, from Rio de Janeiro - Brasil
+- I love Bootcamps, Marathons, Hackathons and Workshops
+- Currently studying at Instituto de Gestão e Tecnologia da Informação
+- When I'm not programming, I'm watching sitcoms or reading some Stephen King books lol
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<h1 align="center">
+✨ Where you can find me: 
+  
+  <p align="center">
+   <a href="https://www.linkedin.com/in/bmndx/">
+    <img src="https://img.shields.io/badge/Linkedin-%2Fin%2Fbmndx-blue?style=for-the-badge&logo=appveyor">
+  </a>
+  
+  <a href="https://www.instagram.com/bmndxx/">
+    <img src="https://img.shields.io/badge/Instagram-%40bmndx-ff69b4?style=for-the-badge&logo=appveyor">
+  </a>
+  
+   <a href="https://twitter.com/bmndxx">
+    <img src="https://img.shields.io/badge/Twitter-%40bmndx-blueviolet?style=for-the-badge&logo=appveyor">
+  </a>
+  </a>
+</p>
+</h1>
+
+<p align="center"> Now 👇🏽 enjoy my repos made with ❤ by me! </p>
+
