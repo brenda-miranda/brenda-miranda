@@ -2,7 +2,8 @@
 Hi there, I'm Brenda Miranda! 🤩
 </h1>
 <h3 align="center">🚀 Front-end Developer | (FullStack in progress) </h3>
-<hr>
+<p align="center">
+<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> </p>
 
 ### 📚 My stack:
 - JavaScript ❤ (I'm fooling around with TypeScript sometimes lol 😂)
@@ -37,6 +38,7 @@ Hi there, I'm Brenda Miranda! 🤩
   </a>
 </p>
 </h1>
-
+<p align="center">
+<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> </p>
 <h3 align="center"><strong> Now 👇🏽 enjoy my repos made with ❤ by me! </strong> </h3>
 
