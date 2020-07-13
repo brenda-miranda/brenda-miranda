@@ -13,7 +13,7 @@ Hi there, I'm Brenda Miranda! 🤩
 
 ### 👀 About me:
 - I'm 22yo, from Rio de Janeiro - Brasil
-- I love Bootcamps, Marathons, Hackathons and Workshops
+- I love Bootcamps, Marathons and Workshops
 - Currently studying at Instituto de Gestão e Tecnologia da Informação
 - When I'm not programming, I'm watching sitcoms or reading some Stephen King books lol
 
