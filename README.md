@@ -6,7 +6,7 @@
 ### 📚 My stack:
 - JavaScript ❤ (I'm fooling around with TypeScript sometimes lol 😂)
 - ReactJS & Styled-Components
-- NodeJS
+- NodeJS & Express
 - Bootstrap
 - HTML & CSS
 
