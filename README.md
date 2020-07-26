@@ -26,7 +26,7 @@
 <h1 align="center">
 ✨ Where you can find me:
   
-  <p align="center"> <br/>
+  <p align="center"><br/>
    <a href="https://www.linkedin.com/in/bmndx/">
     <img src="https://img.shields.io/badge/Linkedin-%2Fin%2Fbmndx-blue?style=for-the-badge&logo=appveyor">
   </a>
