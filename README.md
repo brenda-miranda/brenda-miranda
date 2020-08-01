@@ -8,7 +8,7 @@
 - ReactJS & Styled-Components
 - NodeJS & Express
 - Bootstrap
-- HTML5 & CSS
+- HTML5 & CSS3
 
 ### 👀 About me:
 - I'm 22yo, from Rio de Janeiro - Brasil
