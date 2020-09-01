@@ -7,7 +7,7 @@
 - JavaScript ❤ (I'm fooling around with TypeScript sometimes lol 😂)
 - ReactJS & Styled-Components
 - NodeJS & Express
-- Bootstrap;
+- Bootstrap
 - HTML & CSS
 
 ### 👀 About me:
