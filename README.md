@@ -31,7 +31,7 @@
   </a>
   
    <a href="https://twitter.com/bmndxx">
-    <img src="https://img.shields.io/badge/Twitter-%40bmndxx-blue?style=for-the-badge&logo=appveyor">
+    <img src="https://img.shields.io/badge/Twitter-%40mrslazulli-blue?style=for-the-badge&logo=appveyor">
   </a>
   </a>
 </p>
