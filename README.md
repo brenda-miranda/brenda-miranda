@@ -26,8 +26,8 @@
     <img src="https://img.shields.io/badge/Linkedin-%2Fin%2Fbmndx-blue?style=for-the-badge&logo=appveyor">
   </a>
   
-  <a href="https://www.instagram.com/bmndxx/">
-    <img src="https://img.shields.io/badge/Instagram-%40bmndxx-ff69b2?style=for-the-badge&logo=appveyor">
+  <a href="https://www.instagram.com/heymrslazulli/">
+    <img src="https://img.shields.io/badge/Instagram-%40heymrslazulli-ff69b2?style=for-the-badge&logo=appveyor">
   </a>
   
    <a href="https://twitter.com/mrslazulli">
