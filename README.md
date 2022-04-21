@@ -5,8 +5,8 @@
 
 ### 📚 My skills:
 - JavaScript /TypeScript
-- ReactJS & Styled-Components
 - Angular
+- ReactJS & Styled-Components
 - NodeJS & Express
 - Bootstrap
 - HTML & CSS
