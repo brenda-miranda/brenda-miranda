@@ -1,20 +1,19 @@
 <h1 align="center"> Hi there, I'm Brenda Miranda! 🤩 </h1>
-<h3 align="center">🚀 Front-end Developer | (FullStack in progress) </h3>
+<h3 align="center">🚀 Front-end Developer </h3>
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
 ### 📚 My skills:
 - JavaScript /TypeScript
 - Angular
-- ReactJS & Styled-Components
-- NodeJS & Express
+- NodeJS
 - Bootstrap
 - HTML & CSS
 
 ### 👀 About me:
-- I'm 23yo, from Rio de Janeiro - Brasil
+- I'm 24yo, from Rio de Janeiro - Brasil
 - I love Bootcamps, Marathons and Workshops
-- When I'm not programming, I'm watching sitcoms or reading some Stephen King books lol
+- When I'm not programming, I'm watching sitcoms or reading some Stephen King books :D
   
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
