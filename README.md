@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Instagram-%40heymrslazulli-ff69b2?style=for-the-badge&logo=appveyor">
   </a>
   
-   <a href="https://twitter.com/mrslazulli">
+   <a href="https://twitter.com/itsbrenmi">
     <img src="https://img.shields.io/badge/Twitter-%40mrslazulli-blue?style=for-the-badge&logo=appveyor">
   </a>
   </a>
